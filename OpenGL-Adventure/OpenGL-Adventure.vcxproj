@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hellowindow.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{29D0A54E-D1EA-473F-8067-91CC1BE3B7C0}</ProjectGuid>
     <RootNamespace>OpenGLAdventure</RootNamespace>
