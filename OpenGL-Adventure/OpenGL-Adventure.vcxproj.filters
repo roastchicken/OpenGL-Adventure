@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hellowindow.cpp">
+    <ClCompile Include="hellorectangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
