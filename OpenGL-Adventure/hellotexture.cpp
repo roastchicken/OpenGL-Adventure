@@ -24,7 +24,7 @@ const GLchar* vertexShaderSource = "#version 330 core\n"
 "void main()\n"
 "{\n"
 "gl_Position = vec4(position.x, position.y, position.z, 1.0);\n"
-"TexCoord = texCoord;\n"
+"TexCoord = vec2(texCoord.x, 1.0f - texCoord.y);\n"
 "}\0";
 
 // The fragment shader. All it does is set each pixel's color to orange.
