@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hellotexture.cpp">
+    <ClCompile Include="hellotransformation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
